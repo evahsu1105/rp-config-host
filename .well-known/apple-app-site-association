@@ -1,0 +1,18 @@
+{
+  "applinks": {
+      "details": [
+        {
+          "appIDs": [
+            "A46Z766J68.com.cybavo.passkeys.test",
+            "6R3336A52L.com.circle.ModularWallets.core.example"
+          ]
+        }
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "A46Z766J68.com.cybavo.passkeys.test",
+        "6R3336A52L.com.circle.ModularWallets.core.example"
+      ]
+    }
+}
