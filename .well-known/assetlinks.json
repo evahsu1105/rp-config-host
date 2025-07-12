@@ -1,0 +1,30 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "circle.pwsdk.bwcoresdk.test",
+      "sha256_cert_fingerprints": [
+        "3C:63:84:7E:A6:DF:05:2A:E6:87:C7:DF:75:19:C4:D9:94:D2:76:9A:CF:95:C0:11:50:93:59:9F:40:15:62:52"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.circle.modularwallets.core.test",
+      "sha256_cert_fingerprints": [
+        "3C:63:84:7E:A6:DF:05:2A:E6:87:C7:DF:75:19:C4:D9:94:D2:76:9A:CF:95:C0:11:50:93:59:9F:40:15:62:52",
+        "9D:0A:C7:90:FE:B0:C1:23:EC:10:15:52:0E:52:52:CA:9E:42:95:35:1C:8C:B6:F0:F5:E6:7C:7C:90:CA:E5:52",
+        "3C:63:84:7E:A6:DF:05:2A:E6:87:C7:DF:75:19:C4:D9:94:D2:76:9A:CF:95:C0:11:50:93:59:9F:40:15:62:52"
+      ]
+    }
+  }
+]
