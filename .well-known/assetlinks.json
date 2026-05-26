@@ -19,10 +19,24 @@
     ],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.circle.modularwallets.core.example",
+      "sha256_cert_fingerprints": [
+        "CA:9F:C5:DE:07:2A:97:31:7F:F3:3B:64:D7:E1:69:79:9D:8A:86:2F:ED:CF:4C:B8:6D:C4:83:54:D7:25:94:98"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.circle.modularwallets.core.test",
       "sha256_cert_fingerprints": [
         "3C:63:84:7E:A6:DF:05:2A:E6:87:C7:DF:75:19:C4:D9:94:D2:76:9A:CF:95:C0:11:50:93:59:9F:40:15:62:52",
         "9D:0A:C7:90:FE:B0:C1:23:EC:10:15:52:0E:52:52:CA:9E:42:95:35:1C:8C:B6:F0:F5:E6:7C:7C:90:CA:E5:52",
+        "CA:9F:C5:DE:07:2A:97:31:7F:F3:3B:64:D7:E1:69:79:9D:8A:86:2F:ED:CF:4C:B8:6D:C4:83:54:D7:25:94:98",
         "3C:63:84:7E:A6:DF:05:2A:E6:87:C7:DF:75:19:C4:D9:94:D2:76:9A:CF:95:C0:11:50:93:59:9F:40:15:62:52"
       ]
     }
